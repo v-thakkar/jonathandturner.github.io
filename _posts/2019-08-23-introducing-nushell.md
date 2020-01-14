@@ -4,7 +4,7 @@ title: Introducing nushell
 
 Today, we're introducing a new shell, written in Rust. It draws inspiration from the classic Unix philosophy of pipelines, the structured data approach of PowerShell, functional programming, systems programming, and more.
 
-It's called Nushell, or just Nu for short.  We have a [book](https://book.nushell.sh/en) (¡también se habla [Español](https://book.nushell.sh/es)!). We have a [repo](https://github.com/nushell/nushell). 
+It's called Nushell, or just Nu for short.  We have a [book](https://www.nushell.sh/book/en/) (¡también se habla [Español](https://www.nushell.sh/book/es/)!). We have a [repo](https://github.com/nushell/nushell). 
 
 This release was made by Jonathan Turner (me), Yehuda Katz, and Andrés Robalino, with contributions from Odin Dutton.
 
